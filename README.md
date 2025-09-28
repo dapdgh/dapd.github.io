@@ -22,7 +22,7 @@ This website is hosted for free using **GitHub Pages** directly from my reposito
 
 Here are some of my repositories on GitHub:
 
-* **dapdgh/repository-1:** [Link to your first repository](https://github.com/dapdgh/repository-1)
+* **dapdgh/repository-1:** [Link to your first repository](https://github.com/dapdgh/extensiondell30)
 * **dapdgh/repository-2:** [Link to your second repository](https://github.com/dapdgh/repository-2)
 * **dapdgh/repository-3:** [Link to your third repository](https://github.com/dapdgh/repository-3)
 
